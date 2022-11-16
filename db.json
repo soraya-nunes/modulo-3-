@@ -1,0 +1,134 @@
+{
+    "salao": [
+     {
+       "produto": "Mascara capilar",
+       "marca": "Salão line",
+       "quantidade": 10,
+       "codigo_id": 232,
+       "tipo de cabelo":"crespos "
+     },
+     {
+        "produto": "Mascara capilar black",
+        "marca": "Salão line",
+        "quantidade": 15,
+        "codigo_id": 292,
+        "tipo de cabelo":"Ondulados "
+      },
+      {
+        "produto": "Creme de pentear",
+        "marca": "Salão line",
+        "quantidade": 20,
+        "codigo_id": 132,
+        "tipo de cabelo":"Lisos "
+      },
+      {
+        "produto": "Creme de pentear",
+        "marca": "line",
+        "quantidade": 16,
+        "codigo_id": 253,
+        "tipo de cabelo":"crespos e cacheados "
+      },
+      {
+        "produto": "Kit shampoo e condicionador",
+        "marca": "Salão l",
+        "quantidade": 50,
+        "codigo_id": 252,
+        "tipo de cabelo":"crespos "
+      },
+      {
+        "produto": "kit Completo",
+        "marca": "Salão line",
+        "quantidade": 100,
+        "codigo_id": 2302,
+        "tipo de cabelo":"crespos e ondulados"
+      }
+     ],
+    "Servico":[ 
+     {
+        "tratamento": "Recostrução",
+        "marca": "wella",
+        "quantidade": 100,
+        "codigo_id": 20032,
+        "tipo de cabelo":"crespos "
+      },
+      {
+        "tratamento": "Recostrução e Nutrição",
+        "marca": "wella",
+        "quantidade": 150,
+        "codigo_id": 25032,
+        "tipo de cabelo":"Ondulado "
+      },
+      {
+        "tratamento": "Nutrição",
+        "marca": "wella",
+        "quantidade": 156,
+        "codigo_id": 22,
+        "tipo de cabelo":"Ondulado "
+      },
+      {
+        "tratamento": "Hidratação",
+        "marca": "walla",
+        "quantidade": 180,
+        "codigo_id": 25632,
+        "tipo de cabelo":"Ondulado "
+      },
+      {
+        "tratamento": "Recostrução, Nutrição e hidratação",
+        "marca": "wela",
+        "quantidade": 560,
+        "codigo_id": 32,
+        "tipo de cabelo":"cacheado "
+      },
+      {
+        "tratamento": " Nutrição",
+        "marca": "salao i",
+        "quantidade": 60,
+        "codigo_id": 92,
+        "tipo de cabelo":"Ondulado "
+      }
+     ],
+    "Beleza": [
+     {
+        "tratamento": "Limpeza de pelé",
+        "marca": "sem marca",
+        "quantidade": 150,
+        "codigo_id": 212,
+        "tipo de pele":"Todas "
+      },
+      {
+        "tratamento": "Esfoliação",
+        "marca": "sem marca",
+        "quantidade": 190,
+        "codigo_id": 219,
+        "tipo de pele":"Oleosa"
+      },
+      {
+        "tratamento": "Esfoliação e hidratação da pele",
+        "marca": "sem marca",
+        "quantidade": 195,
+        "codigo_id": 2196,
+        "tipo de pele":"Todas"
+      },
+      {
+        "tratamento": "Tratamento de oleira",
+        "marca": "sem marca",
+        "quantidade": 990,
+        "codigo_id": 2195,
+        "tipo de pele":"Todos"
+      },
+      {
+        "tratamento": "Retira cravos",
+        "marca": "sem marca",
+        "quantidade": 1950,
+        "codigo_id": 21429,
+        "tipo de pele":"Todos"
+      },
+      {
+        "tratamento": "Retira cravos e limpeza de pele",
+        "marca": "sem marca",
+        "quantidade": 1980,
+        "codigo_id": 29,
+        "tipo de pele":"Todos"
+      }
+   ]
+}
